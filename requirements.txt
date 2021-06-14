@@ -1,0 +1,11 @@
+tensorflow-gpu==1.15.0
+Cython
+contextlib2
+jupyter
+matplotlib
+pandas
+opencv-python
+tf_slim
+filterpy==1.4.5
+scikit-image==0.17.2
+lap==0.4.0
